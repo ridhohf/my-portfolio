@@ -9,7 +9,7 @@ import {
 const ContactInfo = () => {
   return (
     <div className="flex flex-col gap-6">
-      <h2 className="text-3xl font-bold text-white">Let's get in touch!</h2>
+      <h2 className="text-3xl font-bold text-white">Lets get in touch!</h2>
       <p className="text-base text-gray-300">
         You can reach me through the contact form or directly via email and
         social media below.
